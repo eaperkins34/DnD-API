@@ -1,0 +1,76 @@
+body {
+    background-image: url("./assets/background-image.jpg");
+    background-size: 1500px 800px;
+   
+
+}
+
+header {
+    font-family: 'Rye', cursive;
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+h1 {
+    font-family: 'Bungee', cursive;
+    color: white;
+}
+
+#classLabel{
+    font-family: 'Bungee', cursive;
+    color: white;
+}
+
+article {
+    color: black;
+    font-family: 'Bungee', cursive;
+    width: 45%;
+    background-color: rgba(255, 255, 255, 0.2);
+    float: left;
+    overflow: hidden;
+    margin: 0 auto;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.submit {
+    font-family: 'Bungee', cursive;
+}
+
+
+.classDesc {
+    color: white;
+    font-family: 'Bungee', cursive; 
+    font-size: 17px;
+    margin-top: -300px; 
+    width: 45%;
+    float: right;
+}
+
+/* span {
+    color: black;
+    font-family: 'Bungee', cursive; 
+    font-size: 17px;
+    margin-top: 0px; 
+    width: 45%;    
+} */
+
+/* section :nth-of-type(2) {
+    color: black;
+    font-family: 'Bungee', cursive; 
+    font-size: 17px;
+    margin-top: 0px; 
+
+} */
+
+section .classDesc {
+    color: white;
+    font-family: 'Bungee', cursive; 
+    font-size: 17px;
+    margin-top: -300px; 
+    width: 45%;
+    float: right; 
+}
+
+
+
