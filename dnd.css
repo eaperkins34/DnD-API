@@ -22,10 +22,10 @@ h1 {
 }
 
 article {
-    color: black;
+    color: hotpink;
     font-family: 'Bungee', cursive;
     width: 45%;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(47, 79, 79, 0.7);
     float: left;
     overflow: hidden;
     margin: 0 auto;
@@ -39,38 +39,24 @@ article {
 
 
 .classDesc {
-    color: white;
+    color: hotpink;
     font-family: 'Bungee', cursive; 
-    font-size: 17px;
-    margin-top: -300px; 
-    width: 45%;
+    font-size: 18px;
+    width: 50%;
+    float: right;
+    text-align: left;
+    background-color: rgba(47, 79, 79, 0.7);
+    border-radius: 5px;
+}
+
+footer {
+    margin-top: 27%;
+}
+
+iframe {
     float: right;
 }
 
-/* span {
-    color: black;
-    font-family: 'Bungee', cursive; 
-    font-size: 17px;
-    margin-top: 0px; 
-    width: 45%;    
-} */
-
-/* section :nth-of-type(2) {
-    color: black;
-    font-family: 'Bungee', cursive; 
-    font-size: 17px;
-    margin-top: 0px; 
-
-} */
-
-section .classDesc {
-    color: white;
-    font-family: 'Bungee', cursive; 
-    font-size: 17px;
-    margin-top: -300px; 
-    width: 45%;
-    float: right; 
-}
 
 
 
